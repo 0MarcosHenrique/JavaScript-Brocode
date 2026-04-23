@@ -10,9 +10,18 @@ body {
 
 #BtnContainer {
     text-align: center;
-    font-size: 2em;
 }
 
 .Buttons {
-    padding: 10px;
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(26, 145, 56);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.Buttons:hover {
+    background-color:  rgb(18, 99, 38) ;
 }
