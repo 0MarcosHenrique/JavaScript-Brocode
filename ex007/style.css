@@ -1,0 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#countLabel {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+}
+
+#BtnContainer {
+    text-align: center;
+    font-size: 2em;
+}
+
+.Buttons {
+    padding: 10px;
+}
